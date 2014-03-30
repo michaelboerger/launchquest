@@ -6,13 +6,13 @@ class Late < Area
             puts "You are late but your thyme has put a... haha... SPRIG in your step (get it?)"
             puts "You're still late though so figure something out."
             puts "\n1. Slow and steady wins the race\n2. Attempt to use a rocket SPRIG\n3. Move on and hope no one notices!"
-            print "CHOOSE YOUR CHOICE: "
+            print "\nCHOOSE YOUR CHOICE: "
         else
             puts "\nYou are on your way to start your Launch Academy Quest but you are late!"
             puts "\nYour poor time management will surely upset Dan."
             puts "\nDan is a morning person and doesn't have the patience for your shenanigans."
             puts "\n1. Slow and steady wins the race\n2. Attempt to use a rocket ship\n3. Attempt to use a Time Portal"
-            print "CHOOSE YOUR CHOICE: "
+            print "\nCHOOSE YOUR CHOICE: "
         end
     end
 
@@ -58,6 +58,12 @@ class Late < Area
                 puts "Spriiiiiig spirg sprig spriiig"
                 wait
                 puts "SprigsprigsprigSprigsprigsprigSprigsprigsprigSprigsprigsprigSprigsprigsprig"
+                wait
+                puts "SprigsprigsprigSprigsprigsprigSprigsprigsprigSprigsprigsprigSprigsprigsprig"
+                puts "sprigsprigSprigsprigsprigSprigsprigsprigSprigsprigsprigSprigsprigsprigsprig"
+                puts "sprigsprigSprigsprigsprigSprigsprigsprigSprigsprigsprigSprigsprigsprigsprig"
+                puts "sprigsprigSprigsprigsprigSprigsprigsprigSprigsprigsprigSprigsprigsprigsprig"
+                puts "sprigsprigSprigsprigsprigSprigsprigsprigSprigsprigsprigSprigsprigsprigsprig"
                 wait
                 clear
                 puts "OH WAIT YOU'RE LATE!"
